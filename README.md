@@ -16,6 +16,4 @@ I am currently looking for a creative, dynamic, and collaborative work environme
 
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>NodeJS</code> <code>React</code> <code>Git</code>
 
-<img src="https://github-readme-stats-didonatodanis-projects.vercel.app"/>
-
 Thanks for visiting my profile, and looking forward to hearing from you! 🙌
