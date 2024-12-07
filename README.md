@@ -1,19 +1,30 @@
-# Hi there, I'm DANI! 👋 Front-End Developer, transitioning to Full-Stack. 🌌
+# Hi there, I'm DANI! 👋 Web Developer, (Full-Stack Focus). 🌌
 
 ## Journey: 🚀
 
 I have always been curious about other cultures and languages, which led me to study English Translation and develop skills to quickly understand new grammar constructions and vocabulary. At the same time, my creative side has driven me to create things from scratch through activities like painting, embroidery, and pottery.
 
-My interest in technology has led me to discover WEB DEVELOPMENT as a way to combine all these passions: learning languages, build projects from zero, and using creativity and technology as my main tools.
+My interest in technology has led me to discover WEB DEVELOPMENT as a way to combine all these passions: learning languages, building projects from the ground up, and using creativity and technology as my main tools.
 
-I have been studying web development for over a year, working on various projects that have helped me gain experience with a wide range of tools and languages that I am passionate about.
+I have been studying Web Development for over a year and a half, working on various projects that have helped me gain experience with a wide range of tools and languages that I am passionate about.
 
 ## Present: 😎
 
-I am currently looking for a creative, dynamic, and collaborative work environment where I can continue developing these skills and contribute with my expertise and attention to detail.
+I am currently looking for a creative, dynamic, and collaborative work environment where I can continue developing my skills and contribute with my growing expertise and attention to detail.
 
 ## Tech Stack:
 
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>NodeJS</code> <code>React</code> <code>Git</code>
+### Front-End:
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code> <code>Bootstrap</code> <code>SASS</code>
 
-Thanks for visiting my profile, and looking forward to hearing from you! 🙌
+### Back-End:
+<code>NodeJS</code> <code>Express.js</code> <code>MongoDB</code> <code>SQL</code> <code>API RESTful</code>
+
+### Version Control:
+<code>Git</code> <code>GitHub</code>
+
+### Testing:
+<code>Cypress</code>
+
+
+## Thanks for visiting my profile, and looking forward to hearing from you! 🙌
