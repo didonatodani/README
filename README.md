@@ -28,11 +28,11 @@ I am currently looking for a creative, dynamic, and collaborative work environme
 
 ## GitHub Stats:
 
-![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=danidev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=didonatodani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danidev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didonatodani&layout=compact&theme=radical)
 
 
 ## Thanks for visiting my profile, and looking forward to hearing from you! 🙌
