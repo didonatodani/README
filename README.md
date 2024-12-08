@@ -26,11 +26,13 @@ I am currently looking for a creative, dynamic, and collaborative work environme
 ### Testing:
 <code>Cypress</code>
 
-## GitHub Stats:
+## My Stats:
+
+### GitHub Stats:
 
 ![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=didonatodani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## Top Languages:
+### Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didonatodani&layout=compact&theme=radical)
 
