@@ -1,4 +1,4 @@
-# Hi there, I'm DANI! 👋 Web Developer, (Full-Stack Focus). 🌌
+# Hi there, I'm DANI! 👋 Full-stack Web Developer, (Front-end Focus). 🌌
 
 ## Journey: 🚀
 
